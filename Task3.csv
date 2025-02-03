@@ -1,0 +1,235 @@
+gender,dept_name,salary,calender_year
+M,Marketing,58896,1990
+M,Marketing,59233,1991
+M,Marketing,59743,1992
+M,Marketing,60437,1993
+M,Marketing,64548,1994
+M,Marketing,65377,1995
+M,Marketing,66468,1996
+M,Marketing,67253,1997
+M,Marketing,66333,1998
+M,Marketing,67595,1999
+M,Marketing,73248,2000
+M,Marketing,75364,2001
+M,Marketing,77525,2002
+F,Marketing,57358,1990
+F,Marketing,57670,1991
+F,Marketing,59755,1992
+F,Marketing,60879,1993
+F,Marketing,61673,1994
+F,Marketing,63080,1995
+F,Marketing,63679,1996
+F,Marketing,64402,1997
+F,Marketing,65582,1998
+F,Marketing,66361,1999
+F,Marketing,68348,2000
+F,Marketing,70364,2001
+F,Marketing,71984,2002
+M,Finance,57644,1990
+M,Finance,56427,1991
+M,Finance,58295,1992
+M,Finance,59037,1993
+M,Finance,62926,1994
+M,Finance,64161,1995
+M,Finance,65448,1996
+M,Finance,66108,1997
+M,Finance,65171,1998
+M,Finance,66548,1999
+M,Finance,72096,2000
+M,Finance,74134,2001
+M,Finance,76027,2002
+F,Finance,56502,1990
+F,Finance,58491,1991
+F,Finance,58537,1992
+F,Finance,59553,1993
+F,Finance,60829,1994
+F,Finance,61103,1995
+F,Finance,62151,1996
+F,Finance,62925,1997
+F,Finance,64103,1998
+F,Finance,65254,1999
+F,Finance,67160,2000
+F,Finance,69268,2001
+F,Finance,70989,2002
+M,"Human Resources",40998,1990
+M,"Human Resources",42164,1991
+M,"Human Resources",43317,1992
+M,"Human Resources",44419,1993
+M,"Human Resources",48020,1994
+M,"Human Resources",49161,1995
+M,"Human Resources",50041,1996
+M,"Human Resources",51047,1997
+M,"Human Resources",50251,1998
+M,"Human Resources",51602,1999
+M,"Human Resources",57181,2000
+M,"Human Resources",59151,2001
+M,"Human Resources",61449,2002
+F,"Human Resources",40973,1990
+F,"Human Resources",42486,1991
+F,"Human Resources",43814,1992
+F,"Human Resources",45189,1993
+F,"Human Resources",46373,1994
+F,"Human Resources",47085,1995
+F,"Human Resources",47814,1996
+F,"Human Resources",48764,1997
+F,"Human Resources",49704,1998
+F,"Human Resources",50823,1999
+F,"Human Resources",52912,2000
+F,"Human Resources",54962,2001
+F,"Human Resources",56502,2002
+M,Production,45269,1990
+M,Production,46447,1991
+M,Production,47583,1992
+M,Production,48725,1993
+M,Production,52591,1994
+M,Production,53527,1995
+M,Production,54461,1996
+M,Production,55492,1997
+M,Production,54638,1998
+M,Production,55990,1999
+M,Production,61606,2000
+M,Production,63643,2001
+M,Production,65609,2002
+F,Production,45138,1990
+F,Production,46309,1991
+F,Production,47215,1992
+F,Production,48482,1993
+F,Production,49349,1994
+F,Production,50276,1995
+F,Production,51358,1996
+F,Production,52262,1997
+F,Production,53345,1998
+F,Production,54263,1999
+F,Production,56191,2000
+F,Production,58404,2001
+F,Production,60468,2002
+M,Development,45764,1990
+M,Development,46596,1991
+M,Development,47629,1992
+M,Development,48629,1993
+M,Development,52598,1994
+M,Development,53570,1995
+M,Development,54600,1996
+M,Development,55604,1997
+M,Development,54769,1998
+M,Development,56027,1999
+M,Development,61563,2000
+M,Development,63674,2001
+M,Development,65814,2002
+F,Development,45611,1990
+F,Development,46623,1991
+F,Development,47389,1992
+F,Development,48512,1993
+F,Development,49572,1994
+F,Development,50398,1995
+F,Development,51329,1996
+F,Development,52165,1997
+F,Development,53232,1998
+F,Development,54360,1999
+F,Development,56298,2000
+F,Development,58424,2001
+F,Development,60260,2002
+M,"Quality Management",42992,1990
+M,"Quality Management",45222,1991
+M,"Quality Management",45813,1992
+M,"Quality Management",46488,1993
+M,"Quality Management",50518,1994
+M,"Quality Management",51656,1995
+M,"Quality Management",52484,1996
+M,"Quality Management",53449,1997
+M,"Quality Management",52442,1998
+M,"Quality Management",53885,1999
+M,"Quality Management",59422,2000
+M,"Quality Management",61657,2001
+M,"Quality Management",63650,2002
+F,"Quality Management",43468,1990
+F,"Quality Management",44595,1991
+F,"Quality Management",45901,1992
+F,"Quality Management",46705,1993
+F,"Quality Management",47438,1994
+F,"Quality Management",48211,1995
+F,"Quality Management",49263,1996
+F,"Quality Management",50224,1997
+F,"Quality Management",51014,1998
+F,"Quality Management",51940,1999
+F,"Quality Management",53863,2000
+F,"Quality Management",55947,2001
+F,"Quality Management",57630,2002
+M,Sales,67414,1990
+M,Sales,68847,1991
+M,Sales,69629,1992
+M,Sales,70643,1993
+M,Sales,74672,1994
+M,Sales,75392,1995
+M,Sales,76194,1996
+M,Sales,77032,1997
+M,Sales,76140,1998
+M,Sales,77414,1999
+M,Sales,83073,2000
+M,Sales,85174,2001
+M,Sales,87113,2002
+F,Sales,67449,1990
+F,Sales,67271,1991
+F,Sales,68333,1992
+F,Sales,69328,1993
+F,Sales,70369,1994
+F,Sales,71583,1995
+F,Sales,72540,1996
+F,Sales,73673,1997
+F,Sales,74629,1998
+F,Sales,75489,1999
+F,Sales,77469,2000
+F,Sales,79554,2001
+F,Sales,81513,2002
+M,Research,46638,1990
+M,Research,46844,1991
+M,Research,47340,1992
+M,Research,48625,1993
+M,Research,52723,1994
+M,Research,53568,1995
+M,Research,54668,1996
+M,Research,55841,1997
+M,Research,55096,1998
+M,Research,56363,1999
+M,Research,61923,2000
+M,Research,64006,2001
+M,Research,66512,2002
+F,Research,47006,1990
+F,Research,46979,1991
+F,Research,47636,1992
+F,Research,48588,1993
+F,Research,49742,1994
+F,Research,50421,1995
+F,Research,51633,1996
+F,Research,52388,1997
+F,Research,53413,1998
+F,Research,54686,1999
+F,Research,56552,2000
+F,Research,58616,2001
+F,Research,60821,2002
+M,"Customer Service",44414,1990
+M,"Customer Service",45560,1991
+M,"Customer Service",47072,1992
+M,"Customer Service",48259,1993
+M,"Customer Service",52224,1994
+M,"Customer Service",53230,1995
+M,"Customer Service",54163,1996
+M,"Customer Service",55054,1997
+M,"Customer Service",53933,1998
+M,"Customer Service",55341,1999
+M,"Customer Service",61005,2000
+M,"Customer Service",63214,2001
+M,"Customer Service",66075,2002
+F,"Customer Service",44814,1990
+F,"Customer Service",45065,1991
+F,"Customer Service",46912,1992
+F,"Customer Service",48567,1993
+F,"Customer Service",49392,1994
+F,"Customer Service",50206,1995
+F,"Customer Service",51306,1996
+F,"Customer Service",52384,1997
+F,"Customer Service",53281,1998
+F,"Customer Service",54233,1999
+F,"Customer Service",56243,2000
+F,"Customer Service",58278,2001
+F,"Customer Service",60589,2002
